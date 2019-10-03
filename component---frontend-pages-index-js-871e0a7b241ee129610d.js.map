@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./frontend/pages/index.js"],"names":["Main"],"mappings":"0FAAA,oBACeA,YAAf","file":"component---frontend-pages-index-js-871e0a7b241ee129610d.js","sourcesContent":["import Main from '../components/main'\nexport default Main\n"],"sourceRoot":""}
